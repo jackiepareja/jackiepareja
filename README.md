@@ -1,5 +1,5 @@
 ### Hi, I'm Jackie. :wave:
-- IoT and Robotics enthusiast - a builder and tinkerer of hardware :robot:
-- Front End: JavaScript, React, CSS. :zap:
-- Backend: Node, PHP, Python, MySQL. :alembic:
-- Passionate about making the web more accessible. :earth_americas:
+- Technologies: 
+  - IoT: Python w/ Raspberry Pi
+  - Game Development: C# w/ Unity Engine
+  - Web App Development: MERN & LAMP Stacks
